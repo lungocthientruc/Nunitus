@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nuntius</string>
+    <string name="register">Đăng kí</string>
+    <string name="login">Đăng nhập</string>
+    <string name="Username">Tên đăng nhập</string>
+    <string name="Password">Mật khẩu</string>
+    <string name="confirmpassword">Xác nhận mật khẩu</string>
+    <string name="Register">Đăng kí</string>
+    <string name="ifdonthaveacc">Nếu không có tài khoản?</string>
+</resources>
